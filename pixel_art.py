@@ -30,7 +30,7 @@ def define_butterfly():
 
     # define some colours
     black = [0, 0, 0]
-    blue = [0.2, 0.4, 0.8]
+    blue = [0.2, 0.6, 0.8]
 
     # specify which pixels are which colour
     c = 8
